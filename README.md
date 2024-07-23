@@ -1,8 +1,74 @@
-# React + Vite
+# Quest React Base
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Documentação
 
-Currently, two official plugins are available:
+- [Documentação](#)
+- [Sobre o projeto](#sobre-o-projeto)
+- [Objetivos principais](#objetivos-principais)
+- [Tecnologias principais](#tecnologias-principais)
+- [Aplicação](#aplicação)
+- [Desenvolvedor](#desenvolvedor)
+- [Executando o projeto localmente](#executando-o-projeto-localmente)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Sobre o projeto
+
+Projeto é uma quest do Curso de Front End DevQuest do módulo de React Base! 
+
+## Objetivos principais
+
+Praticar a utilização de props entre componentes!
+
+
+## Tecnologias Principais
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.legacy.reactjs.org/)
+
+
+## Aplicação
+
+### Telas de Desktop
+
+<p align="center">
+  <img src="src/assets/desktop.png" alt="Imagem exibindo a versão desktop  do site" width="350">
+
+</p>
+
+
+## Desenvolvedor
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <div>
+                <img src="https://avatars.githubusercontent.com/u/110488969?v=4"width="120px;" alt="Foto de Kelvin no GitHub"/><br>
+                    <b> Kelvin Charles  </b><br>
+                        <a href="https://www.linkedin.com/in/kelvin-charles/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+                        <a href="https://github.com/kelvincharlesdev" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+
+
+## Executando o projeto localmente
+
+> Projeto iniciado usando create vite@latest.
+
+- Clone o projeto com
+
+  > git clone https://github.com/kelvincharlesdev/quest-react-base.git
+
+- Vá para a raiz do diretório
+
+  > cd quest-react-base/
+
+- Instale as dependências
+
+  > npm install
+
+- Inicie o servidor local
+
+  > npm run dev

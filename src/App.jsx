@@ -4,8 +4,6 @@ import { Button } from './components/Button/Button'
 import { ColoredParagraph } from './components/Text/ColoredParagraph'
 
 function App() {
-
-
   return (
     <>
       <div>
@@ -14,8 +12,6 @@ function App() {
 
       <Button label='Baixar CV' />
     </>
-
-
   )
 }
 
