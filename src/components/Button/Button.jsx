@@ -1,11 +1,12 @@
 import PropTypes from 'prop-types'
 
-export const Button = ({ label }) => {
+export const Button = ({ label, onClick }) => {
     return (
-        <button>A label desse botão é:  {label}</button>
+        <button onClick={() => onClick(label)}>{label}</button>
     )
 }
 
 Button.propTypes = {
     label: PropTypes.string.isRequired,
+    onClick: PropTypes.func.isRequired
 }
